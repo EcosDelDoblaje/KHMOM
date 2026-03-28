@@ -16,7 +16,7 @@ Instalador del doblaje al castellano para **Kingdom Hearts: Melody of Memory**. 
 ## 📋 Requisitos del Sistema
 
 - **Sistema Operativo:** Windows 7/8/10/11 (64-bit)
-- **Kingdom Hearts 0.2:** Debe estar instalado previamente
+- **Kingdom Hearts Melody of Memory:** Debe estar instalado previamente
 
 ## 🚀 Instalación y Uso
 
